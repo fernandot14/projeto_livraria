@@ -2,3 +2,9 @@
 {
     color:red;
 }
+body
+{
+   background-image: url(../imagens/th.jpg); 
+   background-position: right top;
+   background-repeat: no-repeat;
+}

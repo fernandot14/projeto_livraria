@@ -1,0 +1,12 @@
+#promoçoes
+{
+    text-align: center;
+    color: red;
+    
+}
+body
+{
+ background-image: url(../imagens/th.jpg);
+ background-repeat: no-repeat;
+ background-position: right top;
+}
